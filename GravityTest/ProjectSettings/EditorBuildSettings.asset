@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Freefall.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: 41b807502b02c1147b866e93846caef4
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a91630591243da7499422cc25b1236d1, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eeeadace16776904dae19d4683f36471, type: 2}
